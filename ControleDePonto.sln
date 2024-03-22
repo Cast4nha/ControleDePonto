@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControleDePonto.Server", "ControleDePonto.Server\ControleDePonto.Server.csproj", "{4FA2FE90-4D28-45B3-BB39-87CF96FD3258}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "controledeponto.client", "controledeponto.client\controledeponto.client.esproj", "{10B38AA9-6AAA-4F71-86C9-F35ABCC49DC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FA2FE90-4D28-45B3-BB39-87CF96FD3258}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA2FE90-4D28-45B3-BB39-87CF96FD3258}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA2FE90-4D28-45B3-BB39-87CF96FD3258}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA2FE90-4D28-45B3-BB39-87CF96FD3258}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B38AA9-6AAA-4F71-86C9-F35ABCC49DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B38AA9-6AAA-4F71-86C9-F35ABCC49DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B38AA9-6AAA-4F71-86C9-F35ABCC49DC0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{10B38AA9-6AAA-4F71-86C9-F35ABCC49DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B38AA9-6AAA-4F71-86C9-F35ABCC49DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10B38AA9-6AAA-4F71-86C9-F35ABCC49DC0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8403E7CD-7246-4838-8395-894675EA3452}
+	EndGlobalSection
+EndGlobal
